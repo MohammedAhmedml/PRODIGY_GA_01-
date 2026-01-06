@@ -1,0 +1,5 @@
+Artificial intelligence is transforming the modern world.
+Machine learning allows computers to learn from data.
+Deep learning is inspired by the structure of the human brain.
+Natural language processing enables machines to understand text.
+Large language models can generate meaningful human-like text.
