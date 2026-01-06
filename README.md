@@ -18,5 +18,14 @@ This project demonstrates fine-tuning a GPT-2 language model on a custom dataset
 
 ## How to Run
 1. Install dependencies:
-   ```bash
    pip install -r requirements.txt
+2. Train the model:
+   python train.py
+3. Generate text:
+   python generate.py
+
+Learning Outcome
+>Understanding transformer-based laguage models
+>Fine
+>tuning GPT-2 on custom data
+>Managing ML projects with github
