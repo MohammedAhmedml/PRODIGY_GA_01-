@@ -25,7 +25,7 @@ This project demonstrates fine-tuning a GPT-2 language model on a custom dataset
    python generate.py
 
 Learning Outcome
->Understanding transformer-based laguage models
->Fine
->tuning GPT-2 on custom data
->Managing ML projects with github
+
+1-Understanding transformer-based language models
+2-Fine-tuning GPT-2 on custom data
+3-Managing ML projects with GitHub
