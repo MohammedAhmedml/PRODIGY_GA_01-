@@ -12,4 +12,4 @@ Implement a simple text generation algorithm using Markov chains that predicts t
 
 ## How to Run
 ```bash
-python markov_text_gen.py --input input.txt --order 2 --length 120
+python markov_text_gen.py --input input.txt --order 2 --length 120 --output sample_output.txt
